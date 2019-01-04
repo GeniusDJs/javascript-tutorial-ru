@@ -152,7 +152,7 @@ var hour = 12,
   minute = 30;
 
 if (hour == 12 && minute == 30) {
-  alert( 'Время 12:30' );
+  alert( 'Время ' + hour + ':' + minute );
 }
 ```
 
